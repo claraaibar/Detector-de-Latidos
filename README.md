@@ -1,6 +1,6 @@
 # Detector de Latidos
 
-### **Descripción del proyecto: 🫀**
+### **Descripción del proyecto: **
   - Temática: Tratamiento y procesado de señales biomédicas, algoritmos y programación.
   - Software empleado: Matlab.
 
